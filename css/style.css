@@ -12,6 +12,19 @@ nav {
   font-size: 2em; /*** 32px ***/
 }
 
+h1 {
+  font-size: 1.5em; /*** 24px ***/
+}
+
+h3 {
+  font-size: 2em; /*** 32px ***/
+}
+
+p {
+  font-size: 1em; /*** 16px ***/
+  line height: 18px;
+}
+
 /* unvisited link */
 a:link {
   color: red;
@@ -62,19 +75,20 @@ ul {
   list-style-type: none;
   float: right;
   font-size: 1em; /*** 16px ***/
-  line-height: normal;
+  line-height: 18px;
 }
 
 li {
   float: right;
   padding: 30px;
   font-size: 1em; /*** 16px ***/
-  line height: normal;
+  line height: 18px;
 }
 
 article {
   padding-top: 100px;
   font-size: .5em; /*** 8px ***/
+  line height: 10px;
 }
 
 .container {
